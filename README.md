@@ -1,7 +1,6 @@
 ### Hi, I'm Chai Wan Fei 👋
 
-Final-year **Bachelor of Computer Science (Data Science)** student at **Swinburne University of Technology** (INTI Subang Campus), based in Petaling Jaya, Malaysia. Currently seeking a **3–6 month tech internship starting late February / March 2027**.
-
+Final-year **Bachelor of Computer Science (Data Science)** student at **Swinburne University of Technology** (INTI Subang Campus), based in Petaling Jaya, Malaysia.
 ---
 
 ### Featured Projects
